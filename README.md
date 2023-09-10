@@ -49,7 +49,7 @@ Introducing "EduSync360," a cutting-edge solution powered by Azure AI service an
 * **Microsoft Azure Language Service** to summarize and translate the text from, to any language. 
 * **GitHub** to host the source code, use the version control (collaboration history) to understand the changes, and go back and forth if required to complete the software.  
     
- ## Demo Video Link :movie_camera: : https://youtu.be/N6ircUDdFP4
+ ## Demo Video Link :movie_camera: : https://youtu.be/vzReJwfF91Q
  
  ## Website Link :globe_with_meridians: : https://edusync360.streamlit.app/ 
   
